@@ -44,7 +44,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/berdikulov-571/count.svg" />
+  <img src="https://profile-counter.glitch.me/Akhuov/count.svg" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
