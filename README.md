@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=OKHUNOV%20AKBARKHON%20&desc=Hi!%20I'M%20A%20SOFTWARE%20ENGINEER%20Welcome%20to%20my%20profile!🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=f8f4ff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=OKHUNOV%20AKBARKHON%20&desc=SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=f8f4ff)
 
  I'm a QA Automation Engineer. Welcome to my profile!
 # 💫 About Me:
