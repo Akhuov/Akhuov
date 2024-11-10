@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=OKHUNOV%20AKBARKHON%20&desc=SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=f8f4ff)
 
- I'm a QA Automation Engineer. Welcome to my profile!
+# Welcome to my profile!
 # 💫 About Me:
 🙋🏻‍♂️ My name is Akbarkhon<br>
 
